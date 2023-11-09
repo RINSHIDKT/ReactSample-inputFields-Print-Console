@@ -1,0 +1,23 @@
+.input-fields{
+  text-align: center;
+  margin-left: 540px;
+  background-color: brown;
+  padding: 20px 100px;
+  border-radius: 8px;
+  border: 4px solid black;
+}
+.input-fields input{
+  padding: 10px 50px;
+  border-radius: 8px;
+  margin-bottom: 10px;
+  border: 3px solid black;
+  font-weight: bolder;
+}
+.input-fields h2{
+  color: white;
+  font-weight: bolder;
+}
+.input-fields button{
+  font-weight: bolder;
+  border: 3px solid black;
+}
